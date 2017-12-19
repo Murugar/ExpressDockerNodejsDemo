@@ -1,0 +1,14 @@
+{
+  "name": "ExpressDockerNodeJS",
+  "version": "1.0.0",
+  "description": "Node.js Docker Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "test@test.com",
+  "license": "test",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
